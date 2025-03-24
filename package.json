@@ -1,0 +1,41 @@
+{
+  "name": "muted-black",
+  "displayName": "Muted Black",
+  "description": "A dark-ish theme for VSCode",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.98.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "muted black",
+    "dark theme",
+    "muted theme",
+    "minimalist",
+    "black theme",
+    "soft colors",
+    "vscode theme",
+    "subtle contrasts"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Muted Black",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Muted Black-color-theme.json"
+      }
+    ]
+  },
+  "author": "Matcord",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matcord/mutedblack"
+  },
+  "homepage": "https://github.com/matcord/mutedblack",
+  "bugs": {
+    "url": "https://github.com/matcord/mutedblack/issues"
+  }
+}
