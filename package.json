@@ -3,6 +3,7 @@
   "displayName": "Muted Black",
   "description": "A dark-ish theme for VSCode",
   "version": "0.0.1",
+  "publisher": "matcord",
   "engines": {
     "vscode": "^1.98.0"
   },
@@ -24,7 +25,7 @@
       {
         "label": "Muted Black",
         "uiTheme": "vs-dark",
-        "path": "./themes/Muted Black-color-theme.json"
+        "path": "./themes/muted-black.json"
       }
     ]
   },
